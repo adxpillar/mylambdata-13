@@ -4,7 +4,7 @@ lambdata package
  ## Installation 
 
  ```sh
- pip install______ #to get address from pypi and update this line 
+ pip install -i https://test.pypi.org/simple/ mylambdata-13
  ```
 
 
