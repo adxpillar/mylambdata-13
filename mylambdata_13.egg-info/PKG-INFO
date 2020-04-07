@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: mylambdata-13
+Version: 1.0
+Summary: package
+Home-page: https://github.com/adxpillar/mylambdata-13
+Author: obalufon
+Author-email: obalufonn@gmail.com
+License: UNKNOWN
+Description: # mylambdata-13
+        lambdata package 
+        
+         ## Installation 
+        
+         ```sh
+         pip install______ #to get address from pypi and update this line 
+         ```
+        
+        
+        ## Usage 
+        ```py
+        from my_lambdata.my_mod import enlarge 
+        
+        print(enlarge(9)) #> 900
+        ```
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

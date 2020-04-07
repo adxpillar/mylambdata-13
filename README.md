@@ -10,8 +10,7 @@ lambdata package
 
 ## Usage 
 ```py
-from my_lambdata.my_mod import 
-enlarge 
+from my_lambdata.my_mod import enlarge 
 
 print(enlarge(9)) #> 900
 ```
